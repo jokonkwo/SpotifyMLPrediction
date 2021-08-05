@@ -1,4 +1,4 @@
-# SpotifyMLPrediction
+# Spotify Playlist Prediction (ML)
 
 Over the years, there has been a transition on how music lovers access music due to digitalization in the industry. Different mediums have been use to record music trailing back to vinyl records, cassettes, CDs, etc. Now with streaming platforms/apps as the primary model for streaming music, understanding our musical preferences becomes possible with the data at hand.
 
