@@ -5,4 +5,4 @@ Over the years, there has been a transition on how music lovers access music due
 Therefore as a music ethusiast that regularly listens to many genres from different eras, two distinct playlists were curated on whether the songs were liked or disliked. The goal would be to identify key features through exploratory analysis and develop a model to predict and classify the songs relative to their target playlist. The pool of songs used for this analysis were sourced from recommended playlists of friends and extracted using the Spotify API.
 
 Project Link:
-https://github.com/jokonkwo/SpotifyMLPrediction/blob/main/ML%20Playlist%20Prediction%20-%20Spotify%20API%20Project.ipynb
+https://github.com/jokonkwo/Spotify_ML_Playlist_Prediction/blob/main/Spotify%20ML%20Playlist%20Prediction.ipynb
